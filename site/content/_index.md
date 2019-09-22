@@ -1,5 +1,5 @@
 ---
-title: Investidor Inteligente
+title: Investidor Ideal
 subtitle: O seu espaço para os investimentos
 image: /img/northfolk-ok76f6yw2ia-unsplash.jpg
 blurb:
@@ -31,11 +31,8 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Our values
+  heading: Valores
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    Transparência em primeiro lugar. Somos uma equipe pequena e competente. Sempre estamos pensando em como podemos desburocratizar o acesso a informação e melhorar a vida das pessoas.
 ---
 
