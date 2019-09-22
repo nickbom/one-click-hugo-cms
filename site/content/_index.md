@@ -31,8 +31,8 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Valores
+  heading: Quem somos
   text: >-
-    Transparência em primeiro lugar. Somos uma equipe pequena e competente. Sempre estamos pensando em como podemos desburocratizar o acesso a informação e melhorar a vida das pessoas.
+    Investidor ideal foi criado com intuito de disponibilizar acesso a uma variedade de ferramentas para o investidor. Nesse ponto queremos que você seja capaz de acompanhar sua carteira, listar empresas de capital aberto e estudar seus números e também aprender com os nossos materiais.
 ---
 
