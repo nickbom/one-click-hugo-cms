@@ -1,5 +1,5 @@
 ---
-title: Investidor Ideal
+title: Investidor de valor
 subtitle: O seu espaço para os investimentos
 image: /img/northfolk-ok76f6yw2ia-unsplash.jpg
 blurb:
@@ -33,6 +33,6 @@ products:
 values:
   heading: Quem somos
   text: >-
-    Investidor ideal foi criado com intuito de disponibilizar acesso a uma variedade de ferramentas para o investidor. Nesse ponto queremos que você seja capaz de acompanhar sua carteira, listar empresas de capital aberto e estudar seus números e também aprender com os nossos materiais.
+    Investidor de valor foi criado com intuito de disponibilizar acesso a uma variedade de ferramentas para o investidor. Nesse ponto queremos que você seja capaz de acompanhar sua carteira, listar empresas de capital aberto e estudar seus números e também aprender com os nossos materiais.
 ---
 

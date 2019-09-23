@@ -3,7 +3,7 @@ title: "Contact"
 logo: "/img/logo.png"
 contact_entries:
   - heading: E-mail
-    text: "contato@investidorideal.com.br"
+    text: "contato@investidordevalor.com.br"
 ---
 
 Adorariamos saber o que você está achando da plataforma e ouvir novas ideias e perguntas.
