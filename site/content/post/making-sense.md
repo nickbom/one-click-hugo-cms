@@ -1,27 +1,34 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
-image: /img/blog-flavor_wheel.jpg
+title: >-
+  Recebi uma quantia significativa, agora é a hora de ir para a renda
+  variável?!?
+date: 2019-09-23T16:04:10.000Z
+description: >-
+  Vendi meu carro, qual a ação eu devo comprar? Vendi meu apartamento, qual
+  fundo imobiliário eu devo comprar? Recebi minha herança, qual o melhor lugar
+  para investir esse dinheiro?
+image: /img/adeolu-eletu-rfufqjekzfy-unsplash.jpg
 ---
+Se você está ansioso para começar a investir em renda variável, comece agora, mas que tal criar uma estratégia de investimento para esse dinheiro? 
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+## Faça aportes mensais
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Investir tudo de uma vez em renda variável pode ser uma horrível ideia, ao receber quantias grandes e não possuir uma carteira estruturada, já que a probabilidade de tomar decisões que nós arrependeremos é muito maior. 
 
-## What the updates mean to you
+Fazer aportes mensais pode ser a melhor abordagem para o problema. Quando não possuímos uma carteira mais estruturada somos muito mais enviesados de encontrar ativos perfeitos, alta concentração de ativos e muitos outros erros.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Resumindo, coloque o dinheiro em uma renda fixa e faça aportes mensais de 50% o seu salário atual. Com isso você terá bastante tempo para estudar o mercado e poderá iniciar os seus investimentos em renda variável.
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+## Pele em risco
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Com os aportes mensais você inicia nos investimentos, assim você tem a pele em risco. Ter a pele em risco é a melhor coisas para alguém iniciante, você estuda mais e conhece o mercado.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+Isso tudo com a vantagem dos aportes mensais, você vai ter muito tempo para estudar e não vai precisar definir com pressa o destino para o dinheiro.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+## Esteja preparado
+
+Investir em renda variável muitas das vezes, não é mil maravilhas. Esteja preparado para ver o mercado cair 50% em 5 anos e todas as pessoas falarem que investir em bolsa é a pior coisa do mundo.
+
+- Você está preparado?
+
+Por isso sempre invista com calma, se não você seguirá com a manada e comprará na alta e venderá na baixa.
