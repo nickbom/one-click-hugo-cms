@@ -3,6 +3,8 @@ languageCode = "pt-br"
 languageLang = "pt"
 title = "Inicio"
 
+disqusShortname = "investidordevalor"
+
 [author]
     name = "Investidor de Valor"
 
