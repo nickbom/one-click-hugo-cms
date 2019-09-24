@@ -5,10 +5,12 @@ title = "Inicio"
 
 disqusShortname = "investidordevalor"
 
-[author]
-    name = "Investidor de Valor"
+enableRobotsTXT = true
+canonifyURLs = true
 
-# RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
-# https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["taxonomy", "taxonomyTerm"]
+[author]
+name = "Investidor de Valor"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
