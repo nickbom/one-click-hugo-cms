@@ -8,6 +8,8 @@ description: >-
   fundo imobiliário eu devo comprar? Recebi uma herança, qual o melhor lugar
   para investir esse dinheiro?
 image: /img/adeolu-eletu-rfufqjekzfy-unsplash.jpg
+tags: ["herança", "aportes mensais", "renda variável", "decisão", "planejamento"]
+categories: ["planejamento"]
 ---
 Primeiramente tenha calma, saiba que não existem ativos milagrosos. Que tal criar uma estratégia de investimento para esse dinheiro? 
 
