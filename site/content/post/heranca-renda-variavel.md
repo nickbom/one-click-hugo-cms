@@ -37,7 +37,7 @@ Resumindo, coloque o dinheiro em uma renda fixa e faça aportes mensais com uma 
 
 Com os aportes mensais você iniciou na renda variável, assim você tem a pele em risco. Ter a pele em risco, é a essencial para alguém iniciante, você estuda mais e conhece o mercado.
 
-Agora você pode estar pensando... Se eu colocar toda a minha reserva em renda variável vou ter mais pele em risco ainda... Mas essa afirmativa só se torna verdadeira quando temos conhecemos a nós mesmos e os investimentos Um investidor que inicia os investimentos com uma perda muito grande pode se assustar e nunca mais investir em renda variável, por conta dessa experiencia ruim.
+Agora você pode estar pensando... Se eu colocar toda a minha reserva em renda variável vou ter mais pele em risco ainda... Mas essa afirmativa só se torna verdadeira quando temos conhecemos a nós mesmos e os investimentos. Um investidor que inicia os investimentos com uma perda muito grande pode se assustar e nunca mais investir em renda variável, por conta dessa experiencia ruim.
 
 Então, se beneficie dos aportes mensais, você vai ter muito tempo para estudar e não vai precisar definir com pressa o destino para o dinheiro.
 
