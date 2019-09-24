@@ -9,7 +9,13 @@ description: >-
   para investir esse dinheiro?
 image: /img/adeolu-eletu-rfufqjekzfy-unsplash.jpg
 ---
-Que tal criar uma estratégia de investimento para esse dinheiro? 
+Primeiramente tenha calma, saiba que não existem ativos milagrosos. Que tal criar uma estratégia de investimento para esse dinheiro? 
+
+## Invista em renda fixa
+
+Coloque essa quantia em um investimento conservador, que te garanta primeiramente segurança. Investir em algo que você não conhece pode te levar a cometer erros inesquecíveis.
+
+Para esse momento inicial, a pior coisa que você pode tentar fazer é inventar a roda, invista naquela renda fixa que você já é familiarizado.
 
 ## Faça aportes mensais
 
@@ -21,7 +27,7 @@ Resumindo, coloque o dinheiro em uma renda fixa e faça aportes mensais de 50% o
 
 ## Pele em risco
 
-Com os aportes mensais você inicia nos investimentos, assim você tem a pele em risco. Ter a pele em risco é a melhor coisas para alguém iniciante, você estuda mais e conhece o mercado.
+Com os aportes mensais você inicia nos investimentos, assim você tem a pele em risco. Ter a pele em risco, é a melhor coisas para alguém iniciante, você estuda mais e conhece o mercado.
 
 Isso tudo com a vantagem dos aportes mensais, você vai ter muito tempo para estudar e não vai precisar definir com pressa o destino para o dinheiro.
 
