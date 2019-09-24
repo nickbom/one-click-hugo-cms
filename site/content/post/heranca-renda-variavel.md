@@ -17,7 +17,7 @@ description: >-
   para investir esse dinheiro?
 image: /img/adeolu-eletu-rfufqjekzfy-unsplash.jpg
 ---
-Primeiramente tenha calma, saiba que não existem ativos milagrosos. Que tal criar uma estratégia de investimento para esse dinheiro? 
+Que tal criar uma estratégia de investimento para esse dinheiro? 
 
 ## Invista em renda fixa
 
