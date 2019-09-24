@@ -19,21 +19,23 @@ Para esse momento inicial, a pior coisa que você pode tentar fazer é inventar 
 
 ## Faça aportes mensais
 
-Investir toda sua economia de uma vez em renda variável pode ser uma péssima ideia, ao receber quantias grandes e não possuir uma carteira estruturada, já que a probabilidade de tomar decisões que nós arrependeremos é muito maior. 
+Está pensando em investir em renda variável? Podemos agora com calma planejar a entrada nessa categoria de investimentos. Saiba que ao receber quantias grandes e não possuir uma carteira estruturada, a probabilidade de tomar decisões erradas é muito maior. 
 
-Fazer aportes mensais pode ser a melhor abordagem para o problema. Quando não possuímos uma carteira mais estruturada somos muito mais enviesados de encontrar ativos perfeitos, alta concentração de ativos e muitos outros erros.
+Fazer aportes mensais pode ser uma abordagem para o problema. Quando não possuímos uma carteira estruturada, somos muito mais enviesados de cometer erros como encontrar ativos perfeitos, criar uma carteira com alta concentração de ativos e muitos outros erros.
 
-Resumindo, coloque o dinheiro em uma renda fixa e faça aportes mensais de 50% o seu salário atual. Com isso você terá bastante tempo para estudar o mercado e poderá iniciar os seus investimentos em renda variável.
+Resumindo, coloque o dinheiro em uma renda fixa e faça aportes mensais com uma quantia definida percentualmente abaixo de 5%, dependendo da quantia poderá ser até menor. Com isso você terá bastante tempo para estudar o mercado e poderá iniciar os seus investimentos em renda variável.
 
 ## Pele em risco
 
-Com os aportes mensais você inicia nos investimentos, assim você tem a pele em risco. Ter a pele em risco, é a melhor coisas para alguém iniciante, você estuda mais e conhece o mercado.
+Com os aportes mensais você iniciou na renda variável, assim você tem a pele em risco. Ter a pele em risco, é a essencial para alguém iniciante, você estuda mais e conhece o mercado.
 
-Isso tudo com a vantagem dos aportes mensais, você vai ter muito tempo para estudar e não vai precisar definir com pressa o destino para o dinheiro.
+Agora você pode estar pensando... Se eu colocar toda a minha reserva em renda variável vou ter mais pele em risco ainda... Mas essa afirmativa só se torna verdadeira quando temos o controle da nossa carteira, muitas das vezes, temos prejuízos. Um investidor que inicia os investimentos com uma perda muito grande pode se assustar e nunca mais investir em renda variável, por conta dessa experiencia ruim.
+
+Então, se beneficie dos aportes mensais, você vai ter muito tempo para estudar e não vai precisar definir com pressa o destino para o dinheiro.
 
 ## Esteja preparado
 
-Investir em renda variável muitas das vezes, não é mil maravilhas. Esteja preparado para ver o mercado cair 50% em 5 anos e todas as pessoas falarem que investir em bolsa é a pior coisa do mundo.
+Investir em renda variável, muitas das vezes, não é mil maravilhas. Esteja preparado para ver o mercado cair 50% em 5 anos e todas as pessoas falarem que investir em bolsa é a pior coisa do mundo.
 
 * Você está preparado?
 
