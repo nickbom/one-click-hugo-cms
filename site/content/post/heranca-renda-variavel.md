@@ -1,4 +1,12 @@
 ---
+categories:
+  - planejamento
+tags:
+  - herança
+  - aportes mensais
+  - renda variável
+  - decisão
+  - planejamento
 title: >-
   Recebi uma quantia significativa, agora é o melhor momento para investir em
   renda variável?!?
@@ -8,8 +16,6 @@ description: >-
   fundo imobiliário eu devo comprar? Recebi uma herança, qual o melhor lugar
   para investir esse dinheiro?
 image: /img/adeolu-eletu-rfufqjekzfy-unsplash.jpg
-tags: ["herança", "aportes mensais", "renda variável", "decisão", "planejamento"]
-categories: ["planejamento"]
 ---
 Primeiramente tenha calma, saiba que não existem ativos milagrosos. Que tal criar uma estratégia de investimento para esse dinheiro? 
 
@@ -41,4 +47,4 @@ Investir em renda variável, muitas das vezes, não é mil maravilhas. Esteja pr
 
 * Você está preparado?
 
-Por isso sempre invista com calma, se não você seguirá com a manada e comprará na alta e venderá na baixa.
+Por isso sempre invista com calma, não cometa o erro de seguir com a manada de comprar na alta e vender na baixa.
