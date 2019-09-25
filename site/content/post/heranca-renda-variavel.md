@@ -1,4 +1,12 @@
 ---
+categories:
+  - planejamento
+tags:
+  - herança
+  - aportes mensais
+  - renda variável
+  - decisão
+  - planejamento
 title: >-
   Recebi uma quantia significativa, agora é o melhor momento para investir em
   renda variável?!?
@@ -8,10 +16,8 @@ description: >-
   fundo imobiliário eu devo comprar? Recebi uma herança, qual o melhor lugar
   para investir esse dinheiro?
 image: /img/adeolu-eletu-rfufqjekzfy-unsplash.jpg
-tags: ["herança", "aportes mensais", "renda variável", "decisão", "planejamento"]
-categories: ["planejamento"]
 ---
-Primeiramente tenha calma, saiba que não existem ativos milagrosos. Que tal criar uma estratégia de investimento para esse dinheiro? 
+Que tal criar uma estratégia de investimento para esse dinheiro? 
 
 ## Invista em renda fixa
 
@@ -31,7 +37,7 @@ Resumindo, coloque o dinheiro em uma renda fixa e faça aportes mensais com uma 
 
 Com os aportes mensais você iniciou na renda variável, assim você tem a pele em risco. Ter a pele em risco, é a essencial para alguém iniciante, você estuda mais e conhece o mercado.
 
-Agora você pode estar pensando... Se eu colocar toda a minha reserva em renda variável vou ter mais pele em risco ainda... Mas essa afirmativa só se torna verdadeira quando temos o controle da nossa carteira, muitas das vezes, temos prejuízos. Um investidor que inicia os investimentos com uma perda muito grande pode se assustar e nunca mais investir em renda variável, por conta dessa experiencia ruim.
+Agora você pode estar pensando... Se eu colocar toda a minha reserva em renda variável vou ter mais pele em risco ainda... Mas essa afirmativa só se torna verdadeira quando temos conhecemos a nós mesmos e os investimentos. Um investidor que inicia os investimentos com uma perda muito grande pode se assustar e nunca mais investir em renda variável, por conta dessa experiencia ruim.
 
 Então, se beneficie dos aportes mensais, você vai ter muito tempo para estudar e não vai precisar definir com pressa o destino para o dinheiro.
 
@@ -41,4 +47,4 @@ Investir em renda variável, muitas das vezes, não é mil maravilhas. Esteja pr
 
 * Você está preparado?
 
-Por isso sempre invista com calma, se não você seguirá com a manada e comprará na alta e venderá na baixa.
+Por isso sempre invista com calma, não cometa o erro de seguir com a manada de comprar na alta e vender na baixa.
